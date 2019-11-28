@@ -2,6 +2,19 @@
 <search> 
   
   
+    
+    <entry>
+      <title>学习笔记</title>
+      <link href="/2019/11/28/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>/2019/11/28/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h3 id="头文件、名称空间的解释"><a href="#头文件、名称空间的解释" class="headerlink" title="头文件、名称空间的解释"></a>头文件、名称空间的解释</h3><p>头文件<code>#include&lt;bits/stdc++.h&gt;</code>包含了c++所有头文件；</p><h3 id="控制格式输入输出"><a href="#控制格式输入输出" class="headerlink" title="控制格式输入输出"></a>控制格式输入输出</h3><table><thead><tr><th>函数</th><th>说明</th></tr></thead><tbody><tr><td><code>setw()</code>/<code>cout.width()</code></td><td>输出数据的宽度</td></tr><tr><td><code>setfill()</code></td><td>设置填充字符</td></tr><tr><td><code>setiosflags()</code>/<code>resetiosflags()</code></td><td>对齐方式</td></tr><tr><td><code>setprecision()</code></td><td>输出数据的精度</td></tr><tr><td><code>setbase()</code></td><td>转换为某进制</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
